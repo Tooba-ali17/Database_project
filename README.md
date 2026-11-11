@@ -18,7 +18,7 @@ This project designs a relational database that records public places, their acc
 A large number of people in Pakistan live with some form of disability, and inaccessible public places keep them from healthcare, education, markets, and government services. Accessibility is a rights issue, and the data to act on it is currently scattered or missing. A well-designed database turns individual complaints into evidence that can direct repair budgets and policy.
 
 ### ✨ Why It Is Unique
-* **Built Around Analysis:** Most student projects only store records and retrieve them. This project is built around advanced analysis: scoring places by their accessibility, ranking districts by unresolved problems, and tracing responsibility through a department hierarchy.
+* **Built Around Analysis:** Most student projects only store records and retrieve them. This project is built around analysis: scoring places by their accessibility, ranking districts by unresolved problems, and tracing responsibility through a department hierarchy.
 * **Focused on Physical Environment:** This is not a generic hospital or complaint-portal project. Hospitals are only one type of place among many, and the core focus is the accessibility of the physical environment.
 
 ---
