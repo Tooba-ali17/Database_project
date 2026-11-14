@@ -1,0 +1,408 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 .SFNS-Semibold;\f2\fnil\fcharset0 .SFNS-Regular;
+\f3\fnil\fcharset0 HelveticaNeue-Bold;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid14}
+{\list\listtemplateid15\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid15}
+{\list\listtemplateid16\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid16}
+{\list\listtemplateid17\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid17}
+{\list\listtemplateid18\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid18}
+{\list\listtemplateid19\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid19}
+{\list\listtemplateid20\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid20}
+{\list\listtemplateid21\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid21}
+{\list\listtemplateid22\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid22}
+{\list\listtemplateid23\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid23}
+{\list\listtemplateid24\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid24}
+{\list\listtemplateid25\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid25}
+{\list\listtemplateid26\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2501\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid26}
+{\list\listtemplateid27\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2601\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid27}
+{\list\listtemplateid28\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2701\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid28}
+{\list\listtemplateid29\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2801\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid29}
+{\list\listtemplateid30\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid2901\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid30}
+{\list\listtemplateid31\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid3001\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid31}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}{\listoverride\listid18\listoverridecount0\ls18}{\listoverride\listid19\listoverridecount0\ls19}{\listoverride\listid20\listoverridecount0\ls20}{\listoverride\listid21\listoverridecount0\ls21}{\listoverride\listid22\listoverridecount0\ls22}{\listoverride\listid23\listoverridecount0\ls23}{\listoverride\listid24\listoverridecount0\ls24}{\listoverride\listid25\listoverridecount0\ls25}{\listoverride\listid26\listoverridecount0\ls26}{\listoverride\listid27\listoverridecount0\ls27}{\listoverride\listid28\listoverridecount0\ls28}{\listoverride\listid29\listoverridecount0\ls29}{\listoverride\listid30\listoverridecount0\ls30}{\listoverride\listid31\listoverridecount0\ls31}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww29200\viewh18400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs72 \cf0 Accessible Pakistan: A Disability Accessibility Management System
+\fs192 \
+
+\fs24 \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\fs72 \cf0  
+\f1\b\fs44 Accessible Pakistan: A Disability Accessibility Management System
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 1. What Your Project Aims to Achieve
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The main aim of 
+\f3\b Accessible Pakistan
+\f2\b0  is to promote an inclusive, safe, and supportive environment for people with disabilities. The project aims to empower individuals with disabilities by providing reliable accessibility information about public places and facilities, allowing them to make informed decisions and access different locations independently, without unnecessary dependence on others.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system aims to create awareness about accessibility and encourage equal opportunities for everyone, regardless of their physical abilities.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 2. What Problems It Will Solve
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 People with disabilities often face difficulties accessing public places because they lack information about available accessibility facilities.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 For example, a person who uses a wheelchair may want to visit a university, hospital, shopping mall, or restaurant but may not know whether the location has wheelchair ramps, elevators, accessible washrooms, or suitable pathways.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 Similarly, individuals with visual or hearing impairments may face difficulties when appropriate accessibility facilities are unavailable.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 Our system aims to address these problems by providing accessibility-related information about different public locations. This will help individuals identify suitable places according to their needs, plan their visits confidently, and reduce unnecessary dependence on others.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 3. What the System Will Do and How It Will Behave
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 Accessible Pakistan will provide a platform where users can explore public places and check the accessibility facilities available at different locations.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system will:
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls1\ilvl0
+\f2\fs26 \cf0 Allow users to search for public places such as universities, hospitals, shopping malls, restaurants, and other facilities.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls2\ilvl0
+\f2\fs26 \cf0 Display accessibility information about each location.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls3\ilvl0
+\f2\fs26 \cf0 Provide information about wheelchair ramps, elevators, accessible washrooms, parking facilities, and other relevant features.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls4\ilvl0
+\f2\fs26 \cf0 Include accessibility information for people with visual and hearing impairments.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls5\ilvl0
+\f2\fs26 \cf0 Allow users to share their experiences and provide feedback about the accessibility of different locations.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls6\ilvl0
+\f2\fs26 \cf0 Allow administrators to manage location information and review submitted feedback.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls7\ilvl0
+\f2\fs26 \cf0 Help users identify locations that meet their individual accessibility requirements.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system will respond to users\'92 searches by displaying relevant location information. If accessibility information is unavailable for a particular location, the system will clearly communicate that the information is currently unknown rather than presenting unverified details as facts.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 4. What Scenarios and Situations It Will Handle
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system will handle different situations faced by people with disabilities.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 1: Wheelchair Accessibility
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 A wheelchair user wants to visit a university but does not know whether it has wheelchair ramps, elevators, or accessible washrooms. They can search for the university through Accessible Pakistan and check its available accessibility facilities before visiting.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 2: Accessibility for Visually Impaired People
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 A visually impaired person wants to visit a public building. They can explore the available information about facilities such as tactile pathways, accessible signs, and other visual accessibility support.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 3: Accessibility for Hearing Impaired People
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 A person with hearing difficulties wants to visit a hospital. They can check whether the hospital provides visual announcements, written communication facilities, or other hearing-accessibility support.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 4: Sharing Accessibility Experiences
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 A user visits a public location and discovers that its accessibility information is incorrect or incomplete. They can submit feedback so that the information can be reviewed and updated.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 5: Finding Suitable Public Places
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 A person with a disability wants to visit a shopping mall or restaurant but is unsure whether the location meets their accessibility requirements. They can explore different locations and compare their available facilities.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f3\b\fs26 \cf0 Scenario 6: Managing Accessibility Information
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 An administrator receives new location information or user feedback. They can review the submitted information and update the platform to maintain more reliable accessibility records.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 5. What Is Included and Excluded from the Project Scope
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs30 \cf0 Included in the Project Scope
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The project will include:
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls8\ilvl0
+\f2\fs26 \cf0 A platform for exploring accessible public places.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls9\ilvl0
+\f2\fs26 \cf0 Location searching and browsing.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls10\ilvl0
+\f2\fs26 \cf0 Accessibility information for wheelchair users.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls11\ilvl0
+\f2\fs26 \cf0 Accessibility information for people with visual impairments.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls12\ilvl0
+\f2\fs26 \cf0 Accessibility information for people with hearing impairments.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls13\ilvl0
+\f2\fs26 \cf0 Information about accessible facilities and services.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls14\ilvl0
+\f2\fs26 \cf0 User feedback and experience sharing.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls15\ilvl0
+\f2\fs26 \cf0 Administrative management of location information.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls16\ilvl0
+\f2\fs26 \cf0 Reviewing and updating accessibility records.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls17\ilvl0
+\f2\fs26 \cf0 Helping users identify suitable locations according to their accessibility requirements.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs30 \cf0 Excluded from the Project Scope
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The project will not:
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls18\ilvl0
+\f2\fs26 \cf0 Physically construct wheelchair ramps, elevators, or other accessibility facilities.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls19\ilvl0
+\f2\fs26 \cf0 Provide medical treatment or disability diagnosis.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls20\ilvl0
+\f2\fs26 \cf0 Guarantee that every listed location is completely accessible.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls21\ilvl0
+\f2\fs26 \cf0 Directly control or manage public buildings.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls22\ilvl0
+\f2\fs26 \cf0 Replace professional accessibility inspections.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls23\ilvl0
+\f2\fs26 \cf0 Provide emergency medical or rescue services.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls24\ilvl0
+\f2\fs26 \cf0 Guarantee the accuracy of information that has not yet been verified.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl292\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs34 \cf0 6. What the System Will NOT Do or Support
+\f0\b0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 Accessible Pakistan is designed to provide accessibility information and support informed decision-making. It is not intended to replace physical accessibility services or professional assistance.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system will not:
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls25\ilvl0
+\f2\fs26 \cf0 Provide real-time physical assistance to individuals.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls26\ilvl0
+\f2\fs26 \cf0 Guarantee barrier-free access to every public location.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls27\ilvl0
+\f2\fs26 \cf0 Make medical recommendations or assess an individual\'92s disability.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls28\ilvl0
+\f2\fs26 \cf0 Automatically modify the infrastructure of public places.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls29\ilvl0
+\f2\fs26 \cf0 Force public or private organizations to install accessibility facilities.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls30\ilvl0
+\f2\fs26 \cf0 Provide emergency response services.
+\f0\fs24 \
+\pard\tqr\tx300\tx540\li540\fi-540\sl324\slmult1\partightenfactor0
+\ls31\ilvl0
+\f2\fs26 \cf0 Present unverified accessibility information as confirmed facts.
+\f0\fs24 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f2\fs26 \cf0 The system will focus on making accessibility information easier to find, understand, and share so that people with disabilities can make more independent and informed decisions.
+\f0\fs72 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 \
+
+\fs48 \
+\
+
+\fs72 \
+\
+\
+
+\fs36   
+\fs24 \
+\
+}
